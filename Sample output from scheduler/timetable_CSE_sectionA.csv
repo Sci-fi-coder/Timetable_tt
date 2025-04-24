@@ -1,0 +1,18 @@
+Semester,Department,Section,Course Code,Course Name,Faculty,Day,Time,Room
+1,CSE,A,CSE_CS101,Programming,TBD,Monday,09:00-10:00,C004
+1,CSE,A,CSE_MATH101,Mathematics,TBD,Monday,09:00-10:00,C002
+1,CSE,A,CSE_PH101,Physics,TBD,Monday,09:00-10:00,C003
+1,CSE,A,CSE_CS102,Computer Fundamentals,TBD,Monday,10:00-11:00,C004
+2,CSE,A,CSE_CS162,Optimization,TBD,Monday,09:00-10:00,C101
+2,CSE,A,CSE_CS163,Data Structures & Algorithms,TBD,Monday,09:00-10:00,C102
+2,CSE,A,CSE_CS164,Computer Architecture,TBD,Monday,09:00-10:00,C104
+2,CSE,A,CSE_CS165,Mathematical foundations of Computing,TBD,Monday,09:00-10:00,C201
+4,CSE,A,CSE_CS401,Operating Systems,TBD,Monday,09:00-10:00,C202
+4,CSE,A,CSE_CS402,Database Management Systems,TBD,Monday,09:00-10:00,C203
+4,CSE,A,CSE_CS403,Computer Networks,TBD,Monday,09:00-10:00,C204
+6,CSE,A,CSE_CS601,Artificial Intelligence,TBD,Monday,09:00-10:00,C301
+6,CSE,A,CSE_CS602,Cloud Computing,TBD,Monday,09:00-10:00,C302
+6,CSE,A,CSE_CS603,Information Security,TBD,Monday,09:00-10:00,C303
+8,CSE,A,CSE_CS801,Distributed Systems,TBD,Monday,09:00-10:00,C304
+8,CSE,A,CSE_CS802,Software Architecture,TBD,Monday,10:00-11:00,C101
+8,CSE,A,CSE_CS803,Blockchain Technology,TBD,Monday,10:00-11:00,C102

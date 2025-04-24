@@ -1,0 +1,29 @@
+Semester,Department,Course Code,Course Name,Faculty,Timeslots
+1,ECE,ECE_EC201,Digital Logic,Dr. Sibasankar Padhy,"['L:ECE-A:Monday 10:00-11:00 LH101', 'L:ECE-A:Tuesday 10:00-11:00 LH101', 'L:ECE-A:Wednesday 10:00-11:00 LH101', 'T:ECE-A:Thursday 10:00-11:00 LH101', 'L:ECE-B:Friday 10:00-11:00 LH101']"
+1,ECE,ECE_EC202,Basic Electronics,Dr. Jagadish D N,"['L:ECE-A:Monday 15:00-16:00 LH101', 'L:ECE-A:Tuesday 15:00-16:00 LH101', 'L:ECE-A:Wednesday 15:00-16:00 LH101', 'T:ECE-A:Thursday 15:00-16:00 LH101', 'L:ECE-B:Friday 15:00-16:00 LH101']"
+1,ECE,ECE_EC203,Circuit Theory,Dr. Prabhu Prasad,"['L:ECE-A:Monday 12:00-13:00 LH101', 'L:ECE-A:Tuesday 12:00-13:00 LH101', 'L:ECE-A:Wednesday 12:00-13:00 LH101', 'T:ECE-A:Thursday 12:00-13:00 LH101', 'L:ECE-B:Friday 12:00-13:00 LH101']"
+2,ECE,ECE_EC203,Data Structures and Algorithms,Dr. Prabhu Prasad,"['L:ECE-A:Monday 12:00-13:00 LH101', 'L:ECE-A:Tuesday 12:00-13:00 LH101', 'L:ECE-A:Wednesday 12:00-13:00 LH101', 'L:ECE-B:Thursday 12:00-13:00 LH101', 'L:ECE-B:Friday 12:00-13:00 LH101']"
+2,DSAI,DSAI_CS163,Data Structures & Algorithms,Dr. Sunil Saumya,"['L:DSAI:Monday 10:00-11:00 LH101', 'L:DSAI:Tuesday 10:00-11:00 LH101', 'L:DSAI:Wednesday 10:00-11:00 LH101']"
+2,ECE,ECE_EC202,Computer Architecture,Dr. Jagadish D N,"['L:ECE-A:Monday 15:00-16:00 LH101', 'L:ECE-A:Tuesday 15:00-16:00 LH101', 'L:ECE-A:Wednesday 15:00-16:00 LH101', 'L:ECE-B:Thursday 15:00-16:00 LH101', 'L:ECE-B:Friday 15:00-16:00 LH101']"
+2,DSAI,DSAI_DS164,Data Curation Techniques,Dr. Siddharth R,"['L:DSAI:Monday 15:00-16:00 LH102', 'L:DSAI:Tuesday 15:00-16:00 LH102']"
+2,ECE,ECE_EC201,Network Analysis,Dr. Sibasankar Padhy,"['L:ECE-A:Monday 10:00-11:00 LH102', 'L:ECE-A:Tuesday 10:00-11:00 LH102', 'T:ECE-A:Wednesday 10:00-11:00 LH102', 'L:ECE-B:Thursday 10:00-11:00 LH101', 'L:ECE-B:Friday 10:00-11:00 LH101']"
+4,ECE,ECE_EC401,Digital Signal Processing,Dr. Reddy,"['L:ECE-A:Monday 10:00-11:00 LH101', 'L:ECE-A:Tuesday 10:00-11:00 LH101', 'L:ECE-A:Wednesday 10:00-11:00 LH101', 'T:ECE-A:Thursday 10:00-11:00 LH101', 'L:ECE-B:Friday 10:00-11:00 LH101']"
+4,ECE,ECE_EC403,Control Systems,Dr. Patel,"['L:ECE-A:Monday 15:00-16:00 LH101', 'L:ECE-A:Tuesday 15:00-16:00 LH101', 'L:ECE-A:Wednesday 15:00-16:00 LH101', 'T:ECE-A:Thursday 15:00-16:00 LH101', 'L:ECE-B:Friday 15:00-16:00 LH101']"
+4,CSE,CSE_CS401,Operating Systems,Dr. Kumar,"['L:CSE-A:Monday 10:00-11:00 LH102', 'L:CSE-A:Tuesday 10:00-11:00 LH102', 'L:CSE-A:Wednesday 10:00-11:00 LH102', 'T:CSE-A:Thursday 10:00-11:00 LH102', 'L:CSE-B:Friday 10:00-11:00 LH102']"
+4,CSE,CSE_CS403,Computer Networks,Dr. Verma,"['L:CSE-A:Monday 15:00-16:00 LH102', 'L:CSE-A:Tuesday 15:00-16:00 LH102', 'L:CSE-A:Wednesday 15:00-16:00 LH102', 'T:CSE-A:Thursday 15:00-16:00 LH102', 'L:CSE-B:Friday 15:00-16:00 LH102']"
+4,DSAI,DSAI_DS401,Machine Learning,Dr. Joshi,"['L:DSAI:Monday 10:00-11:00 LH103', 'L:DSAI:Tuesday 10:00-11:00 LH103', 'L:DSAI:Wednesday 10:00-11:00 LH103', 'T:DSAI:Thursday 10:00-11:00 LH103']"
+4,ECE,ECE_EC402,Microprocessors,Dr. Gupta,"['L:ECE-A:Monday 12:00-13:00 LH101', 'L:ECE-A:Tuesday 12:00-13:00 LH101', 'L:ECE-A:Wednesday 12:00-13:00 LH101', 'L:ECE-B:Thursday 12:00-13:00 LH101', 'L:ECE-B:Friday 12:00-13:00 LH101']"
+4,CSE,CSE_CS402,Database Management Systems,Dr. Sharma,"['L:CSE-A:Monday 12:00-13:00 LH102', 'L:CSE-A:Tuesday 12:00-13:00 LH102', 'L:CSE-A:Wednesday 12:00-13:00 LH102', 'L:CSE-B:Thursday 12:00-13:00 LH102', 'L:CSE-B:Friday 12:00-13:00 LH102']"
+4,DSAI,DSAI_DS402,Big Data Analytics,Dr. Mehta,"['L:DSAI:Monday 12:00-13:00 LH103', 'L:DSAI:Tuesday 12:00-13:00 LH103', 'L:DSAI:Wednesday 12:00-13:00 LH103']"
+4,DSAI,DSAI_DS403,Statistical Learning,Dr. Shah,"['L:DSAI:Monday 15:00-16:00 LH103', 'L:DSAI:Tuesday 15:00-16:00 LH103', 'L:DSAI:Wednesday 15:00-16:00 LH103', 'T:DSAI:Thursday 15:00-16:00 LH103']"
+6,ECE,ECE_EC601,VLSI Design,Dr. Kapoor,['T:Monday 10:00-11:00 LH101']
+6,CSE,CSE_CS601,Artificial Intelligence,Dr. Rao,['T:Monday 10:00-11:00 LH102']
+6,CSE,CSE_CS603,Information Security,Dr. Singh,"['L:Tuesday 15:00-16:00 LH101', 'L:Thursday 15:00-16:00 LH101', 'T:Monday 15:00-16:00 LH101']"
+6,DSAI,DSAI_DS601,Deep Learning,Dr. Nair,['T:Monday 10:00-11:00 LH103']
+6,DSAI,DSAI_DS603,Computer Vision,Dr. Pillai,['T:Monday 15:00-16:00 LH102']
+8,ECE,ECE_EC801,IoT Systems,Dr. Shetty,['T:Monday 10:00-11:00 LH101']
+8,ECE,ECE_EC803,Robotics,Dr. Kamath,"['L:Tuesday 15:00-16:00 LH101', 'L:Thursday 15:00-16:00 LH101', 'T:Monday 15:00-16:00 LH101']"
+8,CSE,CSE_CS801,Distributed Systems,Dr. Iyer,['T:Monday 10:00-11:00 LH102']
+8,CSE,CSE_CS803,Blockchain Technology,Dr. Kulkarni,['T:Monday 15:00-16:00 LH102']
+8,DSAI,DSAI_DS801,Reinforcement Learning,Dr. Pai,['T:Monday 10:00-11:00 LH103']
+8,DSAI,DSAI_DS803,Graph Neural Networks,Dr. Shenoy,['T:Monday 15:00-16:00 LH103']

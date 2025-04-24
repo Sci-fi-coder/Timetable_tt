@@ -1,0 +1,14 @@
+Semester,Department,Section,Course Code,Course Name,Faculty,Day,Time,Room
+2,ECE,A,ECE_EC201,Network Analysis,TBD,Monday,11:00-12:00,C003
+2,ECE,A,ECE_EC202,Computer Architecture,TBD,Monday,12:00-13:00,C004
+2,ECE,A,ECE_EC203,Data Structures and Algorithms,TBD,Monday,12:00-13:00,C002
+1,ECE,A,ECE_EC204,Engineering Mathematics,TBD,Monday,12:00-13:00,C003
+4,ECE,A,ECE_EC401,Digital Signal Processing,TBD,Monday,14:00-15:00,C004
+4,ECE,A,ECE_EC402,Microprocessors,TBD,Monday,14:00-15:00,C002
+4,ECE,A,ECE_EC403,Control Systems,TBD,Monday,14:00-15:00,C003
+6,ECE,A,ECE_EC601,VLSI Design,TBD,Monday,15:00-16:00,C004
+6,ECE,A,ECE_EC602,Embedded Systems,TBD,Monday,15:00-16:00,C002
+6,ECE,A,ECE_EC603,Wireless Communication,TBD,Monday,15:00-16:00,C003
+8,ECE,A,ECE_EC801,IoT Systems,TBD,Monday,16:00-17:00,C004
+8,ECE,A,ECE_EC802,Advanced Communication,TBD,Monday,16:00-17:00,C002
+8,ECE,A,ECE_EC803,Robotics,TBD,Monday,16:00-17:00,C003

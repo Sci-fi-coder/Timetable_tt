@@ -1,0 +1,19 @@
+Semester,Department,Section,Course Code,Course Name,Faculty,Day,Time,Room
+1,DSAI,A,DSAI_DS101,Introduction to Data Science,TBD,Monday,11:00-12:00,C202
+1,DSAI,A,DSAI_MATH101,Mathematics for Data Science,TBD,Monday,11:00-12:00,C203
+1,DSAI,A,DSAI_PH101,Physics for Data Science,TBD,Monday,11:00-12:00,C204
+1,DSAI,A,DSAI_DS102,Programming for Data Science,TBD,Monday,11:00-12:00,C301
+2,DSAI,A,DSAI_DS164,Data Curation Techniques,TBD,Monday,11:00-12:00,C302
+2,DSAI,A,DSAI_MA163,Linear Algebra,TBD,Monday,11:00-12:00,C303
+2,DSAI,A,DSAI_CS162,Optimization,TBD,Monday,11:00-12:00,C304
+2,DSAI,A,DSAI_CS164,Computer Architecture,TBD,Monday,12:00-13:00,C101
+2,DSAI,A,DSAI_CS163,Data Structures & Algorithms,TBD,Monday,12:00-13:00,C102
+4,DSAI,A,DSAI_DS401,Machine Learning,TBD,Monday,12:00-13:00,C104
+4,DSAI,A,DSAI_DS402,Big Data Analytics,TBD,Monday,12:00-13:00,C201
+4,DSAI,A,DSAI_DS403,Statistical Learning,TBD,Monday,12:00-13:00,C202
+6,DSAI,A,DSAI_DS601,Deep Learning,TBD,Monday,12:00-13:00,C203
+6,DSAI,A,DSAI_DS602,Natural Language Processing,TBD,Monday,12:00-13:00,C204
+6,DSAI,A,DSAI_DS603,Computer Vision,TBD,Monday,12:00-13:00,C301
+8,DSAI,A,DSAI_DS801,Reinforcement Learning,TBD,Monday,12:00-13:00,C302
+8,DSAI,A,DSAI_DS802,Time Series Analysis,TBD,Monday,12:00-13:00,C303
+8,DSAI,A,DSAI_DS803,Graph Neural Networks,TBD,Monday,12:00-13:00,C304

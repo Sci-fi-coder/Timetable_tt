@@ -1,0 +1,61 @@
+html:<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timetable Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Timetable Viewer</h1>
+            <div class="controls">
+                <input type="file" id="csvFile" accept=".csv" style="display: none;">
+                <button id="uploadBtn"><i class="fas fa-upload"></i> Upload CSV</button>
+                <select id="semesterFilter">
+                    <option value="all">All Semesters</option>
+                    <option value="2">Semester 2</option>
+                    <option value="4">Semester 4</option>
+                    <option value="6">Semester 6</option>
+                    <option value="8">Semester 8</option>
+                </select>
+                <select id="departmentFilter">
+                    <option value="all">All Departments</option>
+                    <option value="CSE">CSE</option>
+                    <option value="ECE">ECE</option>
+                    <option value="DSAI">DSAI</option>
+                </select>
+                <button id="exportBtn"><i class="fas fa-download"></i> Export</button>
+            </div>
+        </header>
+
+        <div class="timetable-container">
+            <div class="timetable-header">
+                <div class="time-slot">Time</div>
+                <div class="day">Monday</div>
+                <div class="day">Tuesday</div>
+                <div class="day">Wednesday</div>
+                <div class="day">Thursday</div>
+                <div class="day">Friday</div>
+            </div>
+            <div class="timetable-body" id="timetableBody">
+                <!-- Timetable will be populated here -->
+            </div>
+        </div>
+
+        <div class="course-details" id="courseDetails">
+            <div class="details-header">
+                <h2>Course Details</h2>
+                <button class="close-btn" id="closeDetails"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="details-content">
+                <!-- Course details will be populated here -->
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
