@@ -1,0 +1,52 @@
+Course Code,Course Name,Department,Semester,L,T,P,S,C,Registered Students
+CSE_CS101,Programming,CSE,1,3,1,2,1,4,120
+CSE_MATH101,Mathematics,CSE,1,3,1,0,1,3,120
+CSE_PH101,Physics,CSE,1,3,1,2,1,4,120
+CSE_CS102,Computer Fundamentals,CSE,1,3,1,2,1,4,120
+ECE_EC201,Digital Logic,ECE,1,3,1,2,1,4,80
+ECE_EC202,Basic Electronics,ECE,1,3,1,2,1,4,80
+ECE_EC203,Circuit Theory,ECE,1,3,1,2,1,4,80
+ECE_EC204,Engineering Mathematics,ECE,1,3,1,0,1,3,80
+DSAI_DS101,Introduction to Data Science,DSAI,1,3,1,2,1,4,60
+DSAI_MATH101,Mathematics for Data Science,DSAI,1,3,1,0,1,3,60
+DSAI_PH101,Physics for Data Science,DSAI,1,3,1,2,1,4,60
+DSAI_DS102,Programming for Data Science,DSAI,1,3,1,2,1,4,60
+CSE_CS162,Optimization,CSE,2,3,1,0,0,2,60
+CSE_CS163,Data Structures & Algorithms,CSE,2,3,0,2,0,4,60
+CSE_CS164,Computer Architecture,CSE,2,3,0,2,0,2,60
+CSE_CS165,Mathematical foundations of Computing,CSE,2,3,0,0,0,3,60
+DSAI_DS164,Data Curation Techniques,DSAI,2,2,0,2,0,3,60
+DSAI_MA163,Linear Algebra,DSAI,2,3,1,0,0,2,60
+DSAI_CS162,Optimization,DSAI,2,3,1,0,0,2,60
+DSAI_CS164,Computer Architecture,DSAI,2,3,0,2,0,2,60
+DSAI_CS163,Data Structures & Algorithms,DSAI,2,3,0,2,0,4,60
+ECE_EC201,Network Analysis,ECE,2,2,1,0,0,3,90
+ECE_EC202,Computer Architecture,ECE,2,3,0,2,0,2,90
+ECE_EC203,Data Structures and Algorithms,ECE,2,3,0,2,0,4,90
+CSE_CS401,Operating Systems,CSE,4,3,1,2,0,4,60
+CSE_CS402,Database Management Systems,CSE,4,3,0,2,0,4,60
+CSE_CS403,Computer Networks,CSE,4,3,1,2,0,4,60
+ECE_EC401,Digital Signal Processing,ECE,4,3,1,2,0,4,80
+ECE_EC402,Microprocessors,ECE,4,3,0,2,0,4,80
+ECE_EC403,Control Systems,ECE,4,3,1,2,0,4,80
+DSAI_DS401,Machine Learning,DSAI,4,3,1,2,0,4,60
+DSAI_DS402,Big Data Analytics,DSAI,4,3,0,2,0,4,60
+DSAI_DS403,Statistical Learning,DSAI,4,3,1,0,0,3,60
+CSE_CS601,Artificial Intelligence,CSE,6,3,1,2,0,4,60
+CSE_CS602,Cloud Computing,CSE,6,3,0,2,0,4,60
+CSE_CS603,Information Security,CSE,6,3,1,2,0,4,60
+ECE_EC601,VLSI Design,ECE,6,3,1,2,0,4,80
+ECE_EC602,Embedded Systems,ECE,6,3,0,2,0,4,80
+ECE_EC603,Wireless Communication,ECE,6,3,1,2,0,4,80
+DSAI_DS601,Deep Learning,DSAI,6,3,1,2,0,4,60
+DSAI_DS602,Natural Language Processing,DSAI,6,3,0,2,0,4,60
+DSAI_DS603,Computer Vision,DSAI,6,3,1,2,0,4,60
+CSE_CS801,Distributed Systems,CSE,8,3,1,2,0,4,60
+CSE_CS802,Software Architecture,CSE,8,3,0,2,0,4,60
+CSE_CS803,Blockchain Technology,CSE,8,3,1,2,0,4,60
+ECE_EC801,IoT Systems,ECE,8,3,1,2,0,4,80
+ECE_EC802,Advanced Communication,ECE,8,3,0,2,0,4,80
+ECE_EC803,Robotics,ECE,8,3,1,2,0,4,80
+DSAI_DS801,Reinforcement Learning,DSAI,8,3,1,2,0,4,60
+DSAI_DS802,Time Series Analysis,DSAI,8,3,0,2,0,4,60
+DSAI_DS803,Graph Neural Networks,DSAI,8,3,1,2,0,4,60
